@@ -43,7 +43,7 @@ b) Invita a tus estudiantes o a los miembros de tu equipo a que colaboren con tu
 
 c) Indícale a tus estudiantes o a los miembros de tu equipo que clonen el repositorio forkeado (y no el original).
 
-**Tanto estudiantes como profesores:**
+**Tanto estudiantes como profesores:**npx http-server --yes -c-1
 
 Para cargar y ver tu sitio web en vivo, ejecuta el siguiente comando:
 
